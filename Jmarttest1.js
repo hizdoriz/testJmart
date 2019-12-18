@@ -1,4 +1,4 @@
-function(){
+function test(){
     var ans = {}
     var test = ['VMRCO', 'VORCM', 'MCRTOX', 'ZXTAC', 'XZATC', 'XMTCOR', 'OXVS', 'AZTXC', 'VXOS', 'RZAT', 'MRCOTX', 'SVXO', 'TRAZ', 'ZTAR', 'MVOCR']
     var charchk = '';
